@@ -1,0 +1,6 @@
+tupla_dos_palestrantes = ("Luan", "Rodrigo", "Marcelo")
+print(tupla_dos_palestrantes[2])
+tupla_do_tema = ("Programação", "Matemática", "Educação")
+print(tupla_do_tema[2])
+tupla_das_instituicoes = ("Infinity School", "Escola privada", "Governo Federal")
+print(tupla_das_instituicoes[2])
